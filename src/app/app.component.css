@@ -1,0 +1,40 @@
+.bg-refugio-primary {
+  background: #c1a580;
+  color: #fff;
+}
+.bg-refugio-secondary {
+  background: #7f3e22;
+  color: #fff;
+}
+
+.bg-refugio-primary:hover {
+  background: rgb(219, 194, 161);
+  color: #fff;
+}
+.navbar.bg-refugio-primary {
+  background: rgb(219, 194, 161);
+  color: #fff;
+}
+.bg-refugio-secondary:hover {
+  background: rgb(85, 40, 21);
+  color: #fff;
+}
+thead.bg-primary {
+  background: #85755e !important;
+  color: white;
+}
+.bg-primary {
+  background: #85755e !important;
+  color: white;
+}
+.btn.bg-primary:hover {
+  background: #5c4d37 !important;
+  color: #fff;
+}
+tbody tr:hover {
+  background: #c1a580;
+  color: #fff;
+}
+select {
+  text-align-last: center;
+}

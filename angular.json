@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-refugio"
+    }
+  },
+  "defaultProject": "angular-refugio",
+  "cli": {
+    "analytics": false
+  }
 }
